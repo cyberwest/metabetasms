@@ -1,7 +1,5 @@
 _author_ = "Dr James Morris"
 
-#! /usr/bin/python
-
 from twilio.rest import TwilioRestClient
 # put your own credentials here
 ACCOUNT_SID = 'ACe5a39e9215b07ae0f5864d82a4bd123b'
